@@ -95,7 +95,7 @@ For the problems that require you to implement floating-point operations,
 the coding rules are less strict.  You are allowed to use looping and
 conditional control.  You are allowed to use both ints and unsigneds.
 You can use arbitrary integer and unsigned constants. You can use any arithmetic,
-logical, or comparison operations on int or unsigned data.
+logical, or comparison operations on int or unsigned data
 
 You are expressly forbidden to:
   1. Define or use any macros.
